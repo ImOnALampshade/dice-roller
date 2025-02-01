@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from cursor import cursor, rollback_if_false, ParserError
 import random
 import re
